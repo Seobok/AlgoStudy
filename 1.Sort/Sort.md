@@ -4,17 +4,18 @@
 
 - O(N^2)
 - 가장 작은 것을 골라 제일 앞에 놓는 정렬
-    
-    ![{508A9DFA-5679-47B3-A747-E0F49915C110}.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/25c4633d-9fa8-4545-b62c-0c86e30da65f/88b53a61-591f-444a-ad44-e6a71ee131b3/508A9DFA-5679-47B3-A747-E0F49915C110.png)
-    
+
+    ![Selection_sort_animation](https://github.com/user-attachments/assets/8cd88a32-bf78-42af-b92c-891aeb5942ee)
+
+
 
 ### 버블 정렬
 
 - O(N^2)
 - 가까이 있는 두 수를 비교해서 더 작은 숫자를 앞으로 보내는 정렬
     
-    ![{F28161CF-DD5D-4181-9EA6-E3F57E3378F7}.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/25c4633d-9fa8-4545-b62c-0c86e30da65f/6a4a6be4-c6ac-46d0-82f2-d1aa3c05cdf9/F28161CF-DD5D-4181-9EA6-E3F57E3378F7.png)
-    
+    ![Bubble_sort_animation](https://github.com/user-attachments/assets/057af744-c364-4b39-9d3d-7ceebf7bd81d)
+
 
 ### 삽입 정렬
 
@@ -22,23 +23,23 @@
 - while문을 이용하여 필요할 때만 정렬
 - 거의 정렬된 상태라면 높은 효율을 보임
     
-    ![{CF83245E-DFFE-4B10-9A39-B0CEAFAEEF5C}.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/25c4633d-9fa8-4545-b62c-0c86e30da65f/00714776-29f2-4db9-ba06-72ea78a61739/CF83245E-DFFE-4B10-9A39-B0CEAFAEEF5C.png)
-    
+    ![Insertion_sort_animation](https://github.com/user-attachments/assets/ba4e2f41-b489-4afc-892d-3902aeffe472)
+
 
 ### 퀵 정렬
 
 - O(NlogN)
 - 대표적인 분할 정복 알고리즘
 - 최악의 경우 O(N^2)
-    
-    ![{7E696429-C5D6-4AFC-9301-2EE420393B69}.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/25c4633d-9fa8-4545-b62c-0c86e30da65f/db424f21-af1a-445a-b711-e7c93ee36220/7E696429-C5D6-4AFC-9301-2EE420393B69.png)
-    
+
+    ![Sorting_quicksort_anim](https://github.com/user-attachments/assets/9c8cb515-371d-4447-b00f-20c108e39bf7)
+
 
 ### 계수 정렬
 
 - O(N) (범위 조건이 있는 특수한 경우)
     
-    ![{4A5E9EEE-7263-4F48-92E0-528761323432}.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/25c4633d-9fa8-4545-b62c-0c86e30da65f/bd170d9f-e936-4a9c-a514-7e849460ebf6/4A5E9EEE-7263-4F48-92E0-528761323432.png)
+
     
 
 ### sort 다루기
@@ -69,3 +70,6 @@
     - https://www.acmicpc.net/problem/1431
 - 수 정렬하기 3 (매우 빠른 정렬)
     - https://www.acmicpc.net/problem/10989
+
+### 이미지 출처
+https://ko.wikipedia.org/wiki/%EC%A0%95%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
