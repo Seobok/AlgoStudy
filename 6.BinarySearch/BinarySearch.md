@@ -30,12 +30,15 @@ binarySearch(A[0..N-1], value) { //k
 }
 ```
 
+![Binary_Search_Depiction](https://github.com/user-attachments/assets/cfecef49-11b2-40e0-8389-834259ea4aab)
+
 ### 예제
 
 - 나무 자르기
     - https://www.acmicpc.net/problem/2805
 - 예산
     - https://www.acmicpc.net/problem/2512
+
 - 공유기 설치
     - https://www.acmicpc.net/problem/2110
 - 가장 긴 증가하는 수열 2
