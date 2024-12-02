@@ -7,3 +7,4 @@ ETEVERS Learning Algorithm Study
 ### [DFS,BFS](https://github.com/Seobok/AlgoStudy/blob/main/4.DFS%2CBFS/DFSBFS.md)
 ### [DP](https://github.com/Seobok/AlgoStudy/blob/main/5.DP/DP.md)
 ### [BinarySearch](https://github.com/Seobok/AlgoStudy/blob/main/6.BinarySearch/BinarySearch.md)
+### [Dijkstra](https://github.com/Seobok/AlgoStudy/blob/main/7.Dijkstra/Dijkstra.md)
