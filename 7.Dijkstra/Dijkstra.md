@@ -14,6 +14,8 @@
 4. 해당 노드를 거쳐가는 경우를 고려하여 최소비용을 저장
 5. 3~4번을 반복
 
+![Dijkstra_Animation](https://github.com/user-attachments/assets/c756399c-9dbb-4401-b4b0-d31eacf7e872)
+
 ### 예제
 
 - 최소비용 구하기
